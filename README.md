@@ -1,6 +1,6 @@
 # AWAE/OSWE
 
-Preparation for coming AWAE Training. 
+This original git has been forked from Timip's Git repository which serves as a baseline for preparation for coming AWAE Training. 
 Work in progress...
 
 ## Atmail Mail Server Appliance: from XSS to RCE (6.4) CVE-2012-2593
